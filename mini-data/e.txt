@@ -1,0 +1,11 @@
+i 3
+ranheli 3
+rjcheli 3
+yacheli 3
+raheli 3
+acheli 3
+racheli 1
+racheai 2
+rachfli 3
+rachli 3
+
